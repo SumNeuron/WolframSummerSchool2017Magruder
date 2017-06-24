@@ -160,9 +160,9 @@ Term Regulator of Stress and Development of Illness : A Potential New Role for E
 
 
 
-[fig2.1]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/1.png
-[fig2.2]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/2.png
-[fig2.3]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/3.png
-[fig2.4]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/4.png
-[fig2.5]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/5.png
-[fig2.6]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/about/imgs/6.png
+[fig2.1]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/1.png
+[fig2.2]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/2.png
+[fig2.3]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/3.png
+[fig2.4]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/4.png
+[fig2.5]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/5.png
+[fig2.6]:https://github.com/SumNeuron/WolframSummerSchool2017Magruder/blob/master/about/imgs/6.png
