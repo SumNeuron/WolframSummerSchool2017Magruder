@@ -1,0 +1,11 @@
+data/
+./data/
+.data/*
+.data/
+
+exon_script.py
+first_test.nb
+test_Script.wls
+test.nb
+
+*.DS_Store
