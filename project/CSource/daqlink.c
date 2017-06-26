@@ -1,5 +1,9 @@
 
-#include "WolframLibrary.h"
+#include "WolframLibrary.h" //for librarylink
+
+
+#include <NIDAQmx.h> // for the daq api functions
+
 
 
 EXTERN_C DLLEXPORT int CreateTask(WolframLibraryData libData, mint argc, MArgument* args, MArgument res)
