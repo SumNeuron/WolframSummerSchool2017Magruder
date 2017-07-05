@@ -1,11 +1,8 @@
-data/
-./data/
-.data/*
-.data/
-
+data/*
+ec2_wolfram/exon_prediction/results/nets/*
+processed_data/*
 exon_script.py
 first_test.nb
 test_Script.wls
 test.nb
-
 *.DS_Store
